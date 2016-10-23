@@ -1,5 +1,3 @@
-# Bookmarks
-
 ## Education, Work
 
 ### Courses
@@ -21,7 +19,7 @@
 + **[LinkedIn](https://www.linkedin.com)**.
 + **[Head Hunter](https://hh.ru)**.
 + **[Upwork](https://www.upwork.com)**.
----
+
 
 ## Mass Media, Entertainment
 
@@ -34,7 +32,8 @@
 ### Games
 + **[Riot Pixels](https://meduza.io)**.
 + **[Old-Games.ru](http://www.old-games.ru)**.
----
+
+
 ## Services
 
 ### VPN Providers
