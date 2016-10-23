@@ -22,6 +22,7 @@
 <!-- /TOC -->
 
 ## Education
+
 ### Courses
 + **[Udacity](https://classroom.udacity.com)**
 + **[Coursera](https://www.coursera.org)**
@@ -32,10 +33,12 @@
 + **[Stepik.org](https://stepic.org)** (rus)
 + **[ИНТУИТ](http://www.intuit.ru/studies/courses?page=1)** (rus)
 + **[Hexlet](https://ru.hexlet.io)** (rus)
+
 ### Technology blogs
 + **[Medium](https://medium.com)**
 
 ## Programming
+
 ### Programming Practice
 + **[Project Euler](https://projecteuler.net/)**
 + **[HackerRank](https://www.hackerrank.com/domains)**
@@ -43,10 +46,13 @@
 + **[Sphere Online Judge](http://www.spoj.com/problems/classical)**
 + **[Rosetta Code](http://rosettacode.org/wiki/Category:Programming_Tasks)**
 + **[Codewars](http://www.codewars.com/)**
+
 ### Dev Tools
 + **[GitHub](https://github.com)**
+
 ### Documentation
 + **[Mozilla Development Network](https://developer.mozilla.org)**
+
 ### Articles, Books, Tutorials
 + **[ACCU](https://accu.org/index.php/book_reviews_redirect)**: Computer books reviews 
 + **[Eloquent Javascript](http://eloquentjavascript.net/)**: JavaScript book 
@@ -56,11 +62,13 @@
 + **[libGDX](https://libgdx.badlogicgames.com)**
 
 ## Mass Media, Entertainment
+
 ### Economics, Politics
 + **[Медуза](https://meduza.io)**
 + **[Московский комсомолец](http://www.mk.ru)** (пока главред Павел Гусев)
 + **[Блог Варламова](http://varlamov.ru)**
 + **[РБК](https://www.rbc.ru)**
+
 ### Games
 + **[Riot Pixels](https://meduza.io)**
 + **[Old-Games.ru](http://www.old-games.ru)**
@@ -69,6 +77,7 @@
 + **[replacementdocs](http://www.replacementdocs.com)**: Game manuals
 
 ## Services
+
 ### VPN Providers
 + **[Windscribe](https://windscribe.com)**: 10 GB free
 
