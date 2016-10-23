@@ -1,22 +1,27 @@
-Table of Contents
+## Table of Contents
 
 <!-- TOC -->
 
-- [Education, Work](#education-work)
+- [Table of Contents](#table-of-contents)
+- [Education](#education)
 	- [Courses](#courses)
 	- [Technology blogs](#technology-blogs)
+- [Programming](#programming)
+	- [Programming Practice](#programming-practice)
 	- [Dev Tools](#dev-tools)
-	- [Job](#job)
+	- [Documentation](#documentation)
+	- [Articles, Books, Tutorials](#articles-books-tutorials)
+	- [Game Engines](#game-engines)
 - [Mass Media, Entertainment](#mass-media-entertainment)
-	- [Economics, politics](#economics-politics)
+	- [Economics, Politics](#economics-politics)
 	- [Games](#games)
 - [Services](#services)
 	- [VPN Providers](#vpn-providers)
+- [Job](#job)
 
 <!-- /TOC -->
 
-## Education, Work
-
+## Education
 ### Courses
 + **[Udacity](https://classroom.udacity.com)**
 + **[Coursera](https://www.coursera.org)**
@@ -24,34 +29,50 @@ Table of Contents
 + **[Free Code Camp](https://www.freecodecamp.com)**
 + **[Microsoft Virtual Academy](https://mva.microsoft.com)**
 + **[Udemy](https://www.udemy.com)**
-+ **[Stepik.org](https://stepic.org)**: Курсы на русском языке
-
++ **[Stepik.org](https://stepic.org)** (rus)
++ **[ИНТУИТ](http://www.intuit.ru/studies/courses?page=1)** (rus)
++ **[Hexlet](https://ru.hexlet.io)** (rus)
 ### Technology blogs
 + **[Medium](https://medium.com)**
 
+## Programming
+### Programming Practice
++ **[Project Euler](https://projecteuler.net/)**
++ **[HackerRank](https://www.hackerrank.com/domains)**
++ **[CodeChef](https://www.codechef.com)**
++ **[Sphere Online Judge](http://www.spoj.com/problems/classical)**
++ **[Rosetta Code](http://rosettacode.org/wiki/Category:Programming_Tasks)**
++ **[Codewars](http://www.codewars.com/)**
 ### Dev Tools
 + **[GitHub](https://github.com)**
+### Documentation
++ **[Mozilla Development Network](https://developer.mozilla.org)**
+### Articles, Books, Tutorials
++ **[ACCU](https://accu.org/index.php/book_reviews_redirect)**: Computer books reviews 
++ **[Eloquent Javascript](http://eloquentjavascript.net/)**: JavaScript book 
 
-### Job
-+ **[LinkedIn](https://www.linkedin.com)**
-+ **[Head Hunter](https://hh.ru)**
-+ **[Upwork](https://www.upwork.com)**
-
+### Game Engines
++ **[Unity](https://unity3d.com)**
++ **[libGDX](https://libgdx.badlogicgames.com)**
 
 ## Mass Media, Entertainment
-
-### Economics, politics
+### Economics, Politics
 + **[Медуза](https://meduza.io)**
 + **[Московский комсомолец](http://www.mk.ru)** (пока главред Павел Гусев)
 + **[Блог Варламова](http://varlamov.ru)**
 + **[РБК](https://www.rbc.ru)**
-
 ### Games
 + **[Riot Pixels](https://meduza.io)**
 + **[Old-Games.ru](http://www.old-games.ru)**
-
++ **[Gamasutra](http://www.gamasutra.com)**
++ **[Hardcore Gaming 101](http://www.hardcoregaming101.net/)**
++ **[replacementdocs](http://www.replacementdocs.com)**: Game manuals
 
 ## Services
-
 ### VPN Providers
 + **[Windscribe](https://windscribe.com)**: 10 GB free
+
+## Job
++ **[LinkedIn](https://www.linkedin.com)**
++ **[Head Hunter](https://hh.ru)**
++ **[Upwork](https://www.upwork.com)**
