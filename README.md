@@ -1,8 +1,5 @@
-## Table of Contents
-
 <!-- TOC -->
 
-- [Table of Contents](#table-of-contents)
 - [Education](#education)
 	- [Courses](#courses)
 	- [Technology blogs](#technology-blogs)
@@ -33,6 +30,8 @@
 + **[Stepik.org](https://stepic.org)** (rus)
 + **[ИНТУИТ](http://www.intuit.ru/studies/courses?page=1)** (rus)
 + **[Hexlet](https://ru.hexlet.io)** (rus)
++ **[GeekBrains](https://geekbrains.ru)** (rus)
+
 
 ### Technology blogs
 + **[Medium](https://medium.com)**
@@ -51,7 +50,8 @@
 + **[GitHub](https://github.com)**
 
 ### Documentation
-+ **[Mozilla Development Network](https://developer.mozilla.org)**
++ **[Mozilla Developer Network](https://developer.mozilla.org)**
++ **[DevDocs](http://devdocs.io)**
 
 ### Articles, Books, Tutorials
 + **[ACCU](https://accu.org/index.php/book_reviews_redirect)**: Computer books reviews 
