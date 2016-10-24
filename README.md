@@ -2,12 +2,13 @@
 
 - [Education](#education)
 	- [Courses](#courses)
+	- [Articles, Books, Tutorials](#articles-books-tutorials)
 	- [Technology blogs](#technology-blogs)
+	- [Resources](#resources)
 - [Programming](#programming)
 	- [Programming Practice](#programming-practice)
 	- [Dev Tools](#dev-tools)
 	- [Documentation](#documentation)
-	- [Articles, Books, Tutorials](#articles-books-tutorials)
 	- [Game Engines](#game-engines)
 - [Mass Media, Entertainment](#mass-media-entertainment)
 	- [Economics, Politics](#economics-politics)
@@ -32,9 +33,18 @@
 + **[Hexlet](https://ru.hexlet.io)** (rus)
 + **[GeekBrains](https://geekbrains.ru)** (rus)
 
+### Articles, Books, Tutorials
++ **[ACCU](https://accu.org/index.php/book_reviews_redirect)**: Computer books reviews 
++ **[Eloquent Javascript](http://eloquentjavascript.net/)**: JavaScript book
 
 ### Technology blogs
 + **[Medium](https://medium.com)**
+
+### Resources
++ **[Google Fonts](https://fonts.google.com)**
++ **[OpenGameArt.org](http://opengameart.org)**
++ **[Freesound](http://www.freesound.org)**
++ **[FindSounds](http://findsounds.com)**
 
 ## Programming
 
@@ -52,10 +62,6 @@
 ### Documentation
 + **[Mozilla Developer Network](https://developer.mozilla.org)**
 + **[DevDocs](http://devdocs.io)**
-
-### Articles, Books, Tutorials
-+ **[ACCU](https://accu.org/index.php/book_reviews_redirect)**: Computer books reviews 
-+ **[Eloquent Javascript](http://eloquentjavascript.net/)**: JavaScript book 
 
 ### Game Engines
 + **[Unity](https://unity3d.com)**
