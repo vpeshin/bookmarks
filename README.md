@@ -28,10 +28,13 @@
 + **[Free Code Camp](https://www.freecodecamp.com)**
 + **[Microsoft Virtual Academy](https://mva.microsoft.com)**
 + **[Udemy](https://www.udemy.com)**
++ **[Front-End Developer Handbook](https://www.frontendhandbook.com)**
 + **[Stepik.org](https://stepic.org)** (rus)
 + **[ИНТУИТ](http://www.intuit.ru/studies/courses?page=1)** (rus)
-+ **[Hexlet](https://ru.hexlet.io)** (rus)
++ **[Лекториум](https://www.lektorium.tv)** (rus)
++ **[Открытое образование](https://openedu.ru/course)** (rus)
 + **[GeekBrains](https://geekbrains.ru)** (rus)
++ **[Learn Indiecamp](http://learn.indiecamp.ru)**: База курсов по разработке игр (rus)
 
 ### Articles, Books, Tutorials
 + **[ACCU](https://accu.org/index.php/book_reviews_redirect)**: Computer books reviews 
@@ -40,11 +43,8 @@
 ### Technology blogs
 + **[Medium](https://medium.com)**
 
-### Resources
-+ **[Google Fonts](https://fonts.google.com)**
-+ **[OpenGameArt.org](http://opengameart.org)**
-+ **[Freesound](http://www.freesound.org)**
-+ **[FindSounds](http://findsounds.com)**
+### Languages
++ **[speakASAP.com](https://speakasap.com/ru)** (rus)
 
 ## Programming
 
@@ -67,6 +67,12 @@
 + **[Unity](https://unity3d.com)**
 + **[libGDX](https://libgdx.badlogicgames.com)**
 
+### Resources
++ **[Google Fonts](https://fonts.google.com)**
++ **[OpenGameArt.org](http://opengameart.org)**
++ **[Freesound](http://www.freesound.org)**
++ **[FindSounds](http://findsounds.com)**
+
 ## Mass Media, Entertainment
 
 ### Economics, Politics
@@ -81,6 +87,12 @@
 + **[Gamasutra](http://www.gamasutra.com)**
 + **[Hardcore Gaming 101](http://www.hardcoregaming101.net/)**
 + **[replacementdocs](http://www.replacementdocs.com)**: Game manuals
++ **[PlayStation DataCenter](http://psxdatacenter.com)**: PlayStation 1 & 2 games database
++ **[Moby Games](http://www.mobygames.com)**: Games database
+
+### Art
++ **[Google Arts & Culture](https://www.google.com/culturalinstitute/beta)**
++ **[Google Arts & Culture works](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_by_collection?uselang=en-gb)**
 
 ## Services
 
