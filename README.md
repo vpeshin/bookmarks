@@ -4,15 +4,18 @@
 	- [Courses](#courses)
 	- [Articles, Books, Tutorials](#articles-books-tutorials)
 	- [Technology blogs](#technology-blogs)
-	- [Resources](#resources)
+	- [Languages](#languages)
 - [Programming](#programming)
 	- [Programming Practice](#programming-practice)
 	- [Dev Tools](#dev-tools)
 	- [Documentation](#documentation)
 	- [Game Engines](#game-engines)
+	- [Resources](#resources)
 - [Mass Media, Entertainment](#mass-media-entertainment)
 	- [Economics, Politics](#economics-politics)
 	- [Games](#games)
+	- [Movies](#movies)
+	- [Art](#art)
 - [Services](#services)
 	- [VPN Providers](#vpn-providers)
 - [Job](#job)
@@ -39,6 +42,9 @@
 ### Articles, Books, Tutorials
 + **[ACCU](https://accu.org/index.php/book_reviews_redirect)**: Computer books reviews 
 + **[Eloquent Javascript](http://eloquentjavascript.net/)**: JavaScript book
++ **[vogella](http://www.vogella.com/tutorials/)**: Java, Android tutorials
+
+http://www.vogella.com/tutorials/
 
 ### Technology blogs
 + **[Medium](https://medium.com)**
@@ -55,6 +61,7 @@
 + **[Sphere Online Judge](http://www.spoj.com/problems/classical)**
 + **[Rosetta Code](http://rosettacode.org/wiki/Category:Programming_Tasks)**
 + **[Codewars](http://www.codewars.com/)**
++ **[CodinGame](https://www.codingame.com)**
 
 ### Dev Tools
 + **[GitHub](https://github.com)**
@@ -89,6 +96,12 @@
 + **[replacementdocs](http://www.replacementdocs.com)**: Game manuals
 + **[PlayStation DataCenter](http://psxdatacenter.com)**: PlayStation 1 & 2 games database
 + **[Moby Games](http://www.mobygames.com)**: Games database
++ **[RPG Codex](http://www.rpgcodex.net)**
+
+### Movies
++ **[Кинокадр](http://www.kinokadr.ru)**
++ **[КиноПоиск](https://www.kinopoisk.ru)**
+
 
 ### Art
 + **[Google Arts & Culture](https://www.google.com/culturalinstitute/beta)**
