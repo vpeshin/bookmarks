@@ -51,7 +51,18 @@ http://www.vogella.com/tutorials/
 + **[Medium](https://medium.com)**
 
 ### Languages
-+ **[speakASAP.com](https://speakasap.com/ru)** (rus)
++ **[speakASAP.com](https://speakasap.com/ru)**: 18 языков (rus)
++ **[Лингуст](http://lingust.ru)**: 15 языков (rus)
++ **[ChinesePod](https://chinesepod.com)**: Learn Chinese, paid
++ **[Forvo](http://forvo.com)**: Words pronunciation
++ **[LINE Dict](http://ce.linedict.com)**: Chinese-English dictionary
++ **[Learn Yu](https://www.learnyu.com)**: Learn Chinese
++ **[Yoyo Chinese Pinyin Chart](https://www.yoyochinese.com/chinese-learning-tools/Mandarin-Chinese-pronunciation-lesson/pinyin-chart-table)**
++ **[Yabla Chinese Pinyin Chart](https://chinese.yabla.com/chinese-pinyin-chart.php)**
++ **[The most common Chinese characters](http://www.zein.se/patrick/3000char.html)**
++ **[Learn Yu](https://www.learnyu.com)**: Learn Chinese
++ **[Chineasy](http://www.chineasy.com/basics)**: Chinese basic building blocks
+
 
 ## Programming
 
