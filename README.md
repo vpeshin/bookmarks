@@ -1,23 +1,23 @@
 <!-- TOC -->
 
 - [Education](#education)
-	- [Courses](#courses)
-	- [Articles, Books, Tutorials](#articles-books-tutorials)
-	- [Technology blogs](#technology-blogs)
-	- [Languages](#languages)
+    - [Courses](#courses)
+    - [Articles, Books, Tutorials](#articles-books-tutorials)
+    - [Technology blogs](#technology-blogs)
+    - [Languages](#languages)
 - [Programming](#programming)
-	- [Programming Practice](#programming-practice)
-	- [Dev Tools](#dev-tools)
-	- [Documentation](#documentation)
-	- [Game Engines](#game-engines)
-	- [Resources](#resources)
+    - [Programming Practice](#programming-practice)
+    - [Dev Tools](#dev-tools)
+    - [Documentation](#documentation)
+    - [Game Engines](#game-engines)
+    - [Resources](#resources)
 - [Mass Media, Entertainment](#mass-media-entertainment)
-	- [Economics, Politics](#economics-politics)
-	- [Games](#games)
-	- [Movies](#movies)
-	- [Art](#art)
+    - [Economics, Politics](#economics-politics)
+    - [Games](#games)
+    - [Movies](#movies)
+    - [Art](#art)
 - [Services](#services)
-	- [VPN Providers](#vpn-providers)
+    - [VPN Providers](#vpn-providers)
 - [Job](#job)
 - [Travel](#travel)
 
@@ -56,12 +56,14 @@ http://www.vogella.com/tutorials/
 + **[ChinesePod](https://chinesepod.com)**: Learn Chinese, paid
 + **[Forvo](http://forvo.com)**: Words pronunciation
 + **[LINE Dict](http://ce.linedict.com)**: Chinese-English dictionary
-+ **[Zhonga](http://www.zhonga.ru)**: Русско-китайский словарь
++ **[MDBG](https://www.mdbg.net)**: Chinese-English-Chinese dictionary
++ **[YellowBridge](http://www.yellowbridge.com)**: A guide to Chinese (+ dictionary)
 + **[Learn Yu](https://www.learnyu.com)**: Learn Chinese
 + **[Yoyo Chinese Pinyin Chart](https://www.yoyochinese.com/chinese-learning-tools/Mandarin-Chinese-pronunciation-lesson/pinyin-chart-table)**
 + **[Yabla Chinese Pinyin Chart](https://chinese.yabla.com/chinese-pinyin-chart.php)**
 + **[The most common Chinese characters](http://www.zein.se/patrick/3000char.html)**
 + **[Chineasy](http://www.chineasy.com/basics)**: Chinese basic building blocks
++ **[italki](https://www.italki.com)**: 1-on-1 online lessons with native language teachers
 
 
 ## Programming
@@ -129,4 +131,9 @@ http://www.vogella.com/tutorials/
 + **[Upwork](https://www.upwork.com)**
 
 ## Travel
-+ **[azair](http://www.azair.eu)**: Low cost carriers
++ **[ITA Matrix](https://matrix.itasoftware.com)**
++ **[momondo](http://www.momondo.com)**
++ **[Skyscanner](https://www.skyscanner.net)**
++ **[Google Flights](https://www.google.com/flights)**: Search regional flights
++ **[Aviasales](https://www.aviasales.ru)**
++ **[azair](http://www.azair.eu)**
