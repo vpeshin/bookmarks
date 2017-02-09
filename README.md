@@ -15,11 +15,18 @@
     - [Economics, Politics](#economics-politics)
     - [Games](#games)
     - [Movies](#movies)
+    - [Music](#music)
     - [Art](#art)
 - [Services](#services)
     - [VPN Providers](#vpn-providers)
 - [Job](#job)
 - [Travel](#travel)
+    - [Flights](#flights)
+    - [Rent](#rent)
+- [Shopping](#shopping)
+- [Hobby](#hobby)
+    - [Beer](#beer)
+    - [Reading](#reading)
 
 <!-- /TOC -->
 
@@ -44,8 +51,7 @@
 + **[ACCU](https://accu.org/index.php/book_reviews_redirect)**: Computer books reviews 
 + **[Eloquent Javascript](http://eloquentjavascript.net/)**: JavaScript book
 + **[vogella](http://www.vogella.com/tutorials/)**: Java, Android tutorials
-
-http://www.vogella.com/tutorials/
++ **[CSS Zen Garden](http://csszengarden.com/)**
 
 ### Technology blogs
 + **[Medium](https://medium.com)**
@@ -57,6 +63,7 @@ http://www.vogella.com/tutorials/
 + **[Forvo](http://forvo.com)**: Words pronunciation
 + **[LINE Dict](http://ce.linedict.com)**: Chinese-English dictionary
 + **[MDBG](https://www.mdbg.net)**: Chinese-English-Chinese dictionary
++ **[Written Chinese](https://dictionary.writtenchinese.com)**: Chinese dictionary
 + **[YellowBridge](http://www.yellowbridge.com)**: A guide to Chinese (+ dictionary)
 + **[Learn Yu](https://www.learnyu.com)**: Learn Chinese
 + **[Yoyo Chinese Pinyin Chart](https://www.yoyochinese.com/chinese-learning-tools/Mandarin-Chinese-pronunciation-lesson/pinyin-chart-table)**
@@ -64,6 +71,7 @@ http://www.vogella.com/tutorials/
 + **[The most common Chinese characters](http://www.zein.se/patrick/3000char.html)**
 + **[Chineasy](http://www.chineasy.com/basics)**: Chinese basic building blocks
 + **[italki](https://www.italki.com)**: 1-on-1 online lessons with native language teachers
++ **[Академик](http://dic.academic.ru/)**: Словари
 
 
 ## Programming
@@ -79,6 +87,7 @@ http://www.vogella.com/tutorials/
 
 ### Dev Tools
 + **[GitHub](https://github.com)**
++ **[testmysite.thinkwithgoogle.com](https://testmysite.thinkwithgoogle.com)**: Test how mobile-friendly your site is
 
 ### Documentation
 + **[Mozilla Developer Network](https://developer.mozilla.org)**
@@ -93,6 +102,7 @@ http://www.vogella.com/tutorials/
 + **[OpenGameArt.org](http://opengameart.org)**
 + **[Freesound](http://www.freesound.org)**
 + **[FindSounds](http://findsounds.com)**
+
 
 ## Mass Media, Entertainment
 
@@ -113,27 +123,65 @@ http://www.vogella.com/tutorials/
 + **[RPG Codex](http://www.rpgcodex.net)**
 
 ### Movies
-+ **[Кинокадр](http://www.kinokadr.ru)**
-+ **[КиноПоиск](https://www.kinopoisk.ru)**
++ **[КиноПоиск](https://www.kinopoisk.ru/)**
++ **[IMDb](http://www.imdb.com/)**
++ **[Кинокадр](http://www.kinokadr.ru/)**
+
+### Music
++ **[RYM](http://rateyourmusic.com/)**
 
 ### Art
 + **[Google Arts & Culture](https://www.google.com/culturalinstitute/beta)**
 + **[Google Arts & Culture works](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_by_collection?uselang=en-gb)**
+
 
 ## Services
 
 ### VPN Providers
 + **[Windscribe](https://windscribe.com)**: 10 GB free
 
+
 ## Job
 + **[LinkedIn](https://www.linkedin.com)**
 + **[Head Hunter](https://hh.ru)**
 + **[Upwork](https://www.upwork.com)**
 
+
 ## Travel
+
+### Flights
+
 + **[ITA Matrix](https://matrix.itasoftware.com)**
 + **[momondo](http://www.momondo.com)**
 + **[Skyscanner](https://www.skyscanner.net)**
 + **[Google Flights](https://www.google.com/flights)**: Search regional flights
 + **[Aviasales](https://www.aviasales.ru)**
 + **[azair](http://www.azair.eu)**
+
+### Rent
+
++ **[Airbnb](https://www.airbnb.com/)**
++ **[Rentalia](http://www.rentalia.com/)**
++ **[HomeAway](https://www.homeaway.com/)**
++ **[HostelWorld](http://www.hostelworld.com/)**
++ **[Hostelz.com](https://www.hostelz.com/)**
++ **[Booking.com](http://www.booking.com/)**
++ **[HotelLook](https://hotellook.com/)**
++ **[HotelLook](https://hotellook.com/)**
++ **[HotelsCombined](https://www.hotelscombined.com/)**
+
+
+## Shopping
+**[Kopikot](https://www.kopikot.ru)**
+
+
+## Hobby
+
+### Beer
+**[Untappd](https://untappd.com)**
+**[BeerAdvocate](https://www.beeradvocate.com)**
+**[RateBeer](https://www.ratebeer.com)**
+
+### Reading
+**[Goodreads](https://www.goodreads.com/)**
+**[Лаборатория Фантастики](https://fantlab.ru)**
