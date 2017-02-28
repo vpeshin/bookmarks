@@ -1,32 +1,13 @@
-<!-- TOC -->
+<!-- TOC depthTo:2 orderedList:true -->
 
-- [Education](#education)
-    - [Courses](#courses)
-    - [Articles, Books, Tutorials](#articles-books-tutorials)
-    - [Technology blogs](#technology-blogs)
-    - [Languages](#languages)
-- [Programming](#programming)
-    - [Programming Practice](#programming-practice)
-    - [Dev Tools](#dev-tools)
-    - [Documentation](#documentation)
-    - [Game Engines](#game-engines)
-    - [Resources](#resources)
-- [Mass Media, Entertainment](#mass-media-entertainment)
-    - [Economics, Politics](#economics-politics)
-    - [Games](#games)
-    - [Movies](#movies)
-    - [Music](#music)
-    - [Art](#art)
-- [Services](#services)
-    - [VPN Providers](#vpn-providers)
-- [Job](#job)
-- [Travel](#travel)
-    - [Flights](#flights)
-    - [Rent](#rent)
-- [Shopping](#shopping)
-- [Hobby](#hobby)
-    - [Beer](#beer)
-    - [Reading](#reading)
+1. [Education](#education)
+2. [Programming](#programming)
+3. [Mass Media, Entertainment](#mass-media-entertainment)
+4. [Services](#services)
+5. [Job](#job)
+6. [Travel](#travel)
+7. [Shopping](#shopping)
+8. [Hobby](#hobby)
 
 <!-- /TOC -->
 
@@ -166,7 +147,6 @@
 + **[HostelWorld](http://www.hostelworld.com/)**
 + **[Hostelz.com](https://www.hostelz.com/)**
 + **[Booking.com](http://www.booking.com/)**
-+ **[HotelLook](https://hotellook.com/)**
 + **[HotelLook](https://hotellook.com/)**
 + **[HotelsCombined](https://www.hotelscombined.com/)**
 
