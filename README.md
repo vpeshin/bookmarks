@@ -162,6 +162,12 @@
 **[BeerAdvocate](https://www.beeradvocate.com)**
 **[RateBeer](https://www.ratebeer.com)**
 
+### Wine
+**[Vivino](https://www.vivino.com/)**
+
+### Whisky
+**[Whisky.com](https://www.whisky.com/)**
+
 ### Reading
 **[Goodreads](https://www.goodreads.com/)**
 **[Лаборатория Фантастики](https://fantlab.ru)**
