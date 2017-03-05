@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- TOC depthTo:2 orderedList:true -->
 
 1. [Education](#education)
@@ -9,6 +8,14 @@
 6. [Travel](#travel)
 7. [Shopping](#shopping)
 8. [Hobby](#hobby)
+9. [Education](#education-1)
+10. [Programming](#programming-1)
+11. [Mass Media, Entertainment](#mass-media-entertainment-1)
+12. [Services](#services-1)
+13. [Job](#job-1)
+14. [Travel](#travel-1)
+15. [Shopping](#shopping-1)
+16. [Hobby](#hobby-1)
 
 <!-- /TOC -->
 
@@ -327,17 +334,16 @@
 
 
 ## Shopping
-**[Kopikot](https://www.kopikot.ru)**
++ **[Kopikot](https://www.kopikot.ru)**
 
 
 ## Hobby
 
 ### Beer
-**[Untappd](https://untappd.com)**
-**[BeerAdvocate](https://www.beeradvocate.com)**
-**[RateBeer](https://www.ratebeer.com)**
++ **[Untappd](https://untappd.com)**
++ **[BeerAdvocate](https://www.beeradvocate.com)**
++ **[RateBeer](https://www.ratebeer.com)**
 
 ### Reading
-**[Goodreads](https://www.goodreads.com/)**
->>>>>>> 5d1bed49a1a6126095fc350928d2fc56f9c6cdbd
-**[Лаборатория Фантастики](https://fantlab.ru)**
++ **[Goodreads](https://www.goodreads.com/)**
++ **[Лаборатория Фантастики](https://fantlab.ru)**
