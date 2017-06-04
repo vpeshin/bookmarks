@@ -2,12 +2,14 @@
 
 1. [Education](#education)
 2. [Programming](#programming)
-3. [Mass Media, Entertainment](#mass-media-entertainment)
-4. [Services](#services)
-5. [Job](#job)
-6. [Travel](#travel)
-7. [Shopping](#shopping)
-8. [Hobby](#hobby)
+3. [GameDev](#gamedev)
+4. [Mass Media, Entertainment](#mass-media-entertainment)
+5. [Services](#services)
+6. [Job](#job)
+7. [Travel](#travel)
+8. [Shopping](#shopping)
+9. [Hobby](#hobby)
+10. [Fitness](#fitness)
 
 <!-- /TOC -->
 
@@ -74,12 +76,28 @@
 + **[Mozilla Developer Network](https://developer.mozilla.org)**
 + **[DevDocs](http://devdocs.io)**
 
+### Resources
++ **[Google Fonts](https://fonts.google.com)**
+
+
+## GameDev
+
+### Learn
++ **[PixelProspector](http://www.pixelprospector.com/)**
++ **[GameMaker Handbook](https://www.reddit.com/r/gamemaker/comments/3lyoik/game_maker_handbook_resources_for_beginners_an/)**
++ **[Unity2D Subreddit](https://www.reddit.com/r/Unity2D/)**
++ **[Official Unity Tutorials](https://unity3d.com/learn/tutorials)**
++ **[YoYo Games Blog](https://www.yoyogames.com/blog)**
++ **[The Big List of Unity Development Resources](http://www.businessofapps.com/big-list-unity-development-resources/)**
+
 ### Game Engines
 + **[Unity](https://unity3d.com)**
 + **[libGDX](https://libgdx.badlogicgames.com)**
 
+
 ### Resources
-+ **[Google Fonts](https://fonts.google.com)**
++ **[Free 2D Assets](https://www.reddit.com/r/Unity2D/comments/3dfi5k/lets_create_a_list_of_all_100_free_2d_assets_with/)**
++ **[List of Software Tools](https://www.reddit.com/r/Unity2D/wiki/software)**
 + **[OpenGameArt.org](http://opengameart.org)**
 + **[Freesound](http://www.freesound.org)**
 + **[FindSounds](http://findsounds.com)**
@@ -107,9 +125,13 @@
 + **[КиноПоиск](https://www.kinopoisk.ru/)**
 + **[IMDb](http://www.imdb.com/)**
 + **[Кинокадр](http://www.kinokadr.ru/)**
++ **[MyAnimeList](https://myanimelist.net/)**
 
 ### Music
 + **[RYM](http://rateyourmusic.com/)**
+
+### Music Streaming
++ **[Deezer](http://www.deezer.com/)**
 
 ### Art
 + **[Google Arts & Culture](https://www.google.com/culturalinstitute/beta)**
@@ -126,6 +148,7 @@
 + **[LinkedIn](https://www.linkedin.com)**
 + **[Head Hunter](https://hh.ru)**
 + **[Upwork](https://www.upwork.com)**
++ **[work-zilla.com](https://client.work-zilla.com/Freelancer)**
 
 
 ## Travel
@@ -169,3 +192,8 @@
 
 ### Reading
 **[Goodreads](https://www.goodreads.com/)**
+
+
+## Fitness
+**[Твой тренер](https://tvoytrener.com)**
+**[Замена упражнений](http://ironzen.org/reference-book/table/461-pravila-zameny-uprazhneniy-alternativnymi.html)**
